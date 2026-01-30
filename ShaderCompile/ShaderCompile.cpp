@@ -17,7 +17,7 @@
 
 #include <windows.h>
 
-#include "DbgHelp.h"
+#include <dbghelp.h>
 #include "d3dcompiler.h"
 #include <atomic>
 #include <chrono>
